@@ -1,2 +1,3 @@
 # Avalonia.Emoji
-Avalonia study
+Avalonia study Avalonia V11.0.6,.Net8.0
+
